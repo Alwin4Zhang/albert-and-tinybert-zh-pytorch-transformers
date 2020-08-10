@@ -2,7 +2,8 @@
 albert and tinybert 预训练模型 从 tensorflow 转 pytorch
 
 # 调用方式可以参考如下
-1.使用huggingface [transformers](https://github.com/huggingface/transformers)
+1.使用huggingface [transformers](https://github.com/huggingface/transformers) 
+
 2.使用brightmart [albert_zh](https://github.com/brightmart/albert_zh)  
 
 # 目前已经转换好可以直接使用的model
